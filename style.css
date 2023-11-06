@@ -31,9 +31,8 @@ body {
 
 .container > div {
   flex: 40%;
-  border: 1px solid;
   padding: 10px;
-  box-shadow: 3px 3px 3px 3px #888888;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
 }
 
 #heading {
